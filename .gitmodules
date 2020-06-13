@@ -1,0 +1,6 @@
+[submodule "openrouteservice"]
+	path = openrouteservice
+	url = git@github.com:GIScience/openrouteservice.git
+[submodule "openrouteservice-app"]
+	path = openrouteservice-app
+	url = git@github.com:GIScience/openrouteservice-app.git
